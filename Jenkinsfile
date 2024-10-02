@@ -1,4 +1,4 @@
-def myfn(a,b){
+def myfn(=2000,b=3000){
     println "Welcome to functions"
     println "My a value is ${a} & my b value is ${b}"
 }
