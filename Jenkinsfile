@@ -19,7 +19,7 @@ pipeline{
                     println "Selected environment is ${params.ENV}"  
 
                     // Printing environment variables
-                    println “my Java home path is ${env.JAVA_HOME}”      
+                    println "my Java home path is ${env.JAVA_HOME}"     
                 }
             }
         }
